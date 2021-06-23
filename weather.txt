@@ -1,0 +1,5 @@
+City Name : London
+Current temperature is : 9.400000000000034
+Current weather desc : broken clouds
+Current Humidity : 88%
+Current wind speed :1.54kmph
